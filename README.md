@@ -2,6 +2,6 @@
 - 👀 I’m interested in ... linux
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... My NNOS
-- 📫 How to reach me ... Email Me at info@nathannetwok.com or text me at 781 - 208 - 9737
+- 📫 How to reach me ... Email Me at info@nathannetwork.com or text me at 781 - 208 - 9737
 - 😄 Pronouns: ... He, Him, His
 - ⚡ Fun fact: ... I Work On Linux Machines, and I Do Not Like Redhat Computers.
