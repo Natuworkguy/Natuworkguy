@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm passionate about working on machine learning, 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various NL projects.
+- 🔭 I’m currently working on various NexLang projects.
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
 - 🤔 I’m looking for help with improving my knowledge in deep learning.
-- 💬 Ask me about anything related to NexLang, ML, and open-source contributions.
+- 💬 Ask me about anything related to NexLang, and open-source contributions.
 - 📫 How to reach me: [info@nathannetwork.com](mailto:info@nathannetwork.com)
 - 😄 Pronouns: He/Him
 
