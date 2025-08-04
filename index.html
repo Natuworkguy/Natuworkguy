@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nathan / About Me</title>
+  <meta name="description" content="About Nathan - 9yo coder building cool stuff in HTML, CSS, JS, Python, PowerShell.">
+  <style>
+    :root {
+      --bg:#0f111a;
+      --card:#1f2440;
+      --radius:16px;
+      --shadow:0 25px 60px -10px rgba(0,0,0,0.5);
+      --focus:#7c5aff;
+      --transition:.3s cubic-bezier(.4,.2,.2,1);
+      --fz-base:16px;
+      color: #e3e9ff;
+      font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    }
+    *{box-sizing:border-box;}
+    body {
+      margin:0;
+      background: linear-gradient(135deg,#0f111a 0%,#1b213b 75%);
+      min-height:100vh;
+      line-height:1.45;
+      font-size: var(--fz-base);
+      -webkit-font-smoothing:antialiased;
+    }
+    .container {
+      max-width: 1000px;
+      padding: 1.5rem 1rem;
+      margin: 0 auto;
+    }
+    header {
+      display:flex;
+      flex-wrap:wrap;
+      gap:1rem;
+      justify-content: space-between;
+      align-items:center;
+      margin-bottom:1rem;
+    }
+    h1{
+      margin:0;
+      font-size:2rem;
+    }
+    .tagline{
+      margin:4px 0 12px;
+      font-weight:500;
+      opacity:.85;
+    }
+    .btn {
+      display:inline-flex;
+      gap:.35em;
+      align-items:center;
+      padding:.6em 1.1em;
+      background: var(--focus);
+      border:none;
+      border-radius:999px;
+      cursor:pointer;
+      color:#fff;
+      font-weight:600;
+      text-decoration:none;
+      font-size:.9rem;
+      transition: var(--transition);
+    }
+    .btn:hover { filter:brightness(1.1); }
+    .grid {
+      display:grid;
+      gap:1.5rem;
+      grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    }
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding:1.4rem 1.6rem;
+      position:relative;
+      overflow:hidden;
+      box-shadow: var(--shadow);
+      border:1px solid rgba(255,255,255,0.05);
+    }
+    .card h2 {
+      margin-top:0;
+      margin-bottom:.6rem;
+      font-size:1.25rem;
+      display:flex;
+      align-items:center;
+      gap:.4em;
+    }
+    .skills {
+      display:flex;
+      flex-wrap:wrap;
+      gap:.5rem .75rem;
+    }
+    .skill {
+      background: rgba(255,255,255,0.08);
+      padding:.4rem .8rem;
+      border-radius:999px;
+      font-size:.75rem;
+      display:inline-flex;
+      align-items:center;
+      gap:.4em;
+    }
+    .project {
+      margin-bottom:1rem;
+    }
+    .project-title {
+      font-weight:600;
+      margin:0 0 4px;
+      display:flex;
+      justify-content: space-between;
+      gap:6px;
+      flex-wrap:wrap;
+    }
+    .project-desc {
+      margin:4px 0 0;
+      font-size:.9rem;
+    }
+    .stats {
+      display:flex;
+      flex-direction: column;
+      gap:1rem;
+    }
+    .socials {
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+    }
+    .pill {
+      background: rgba(255,255,255,0.08);
+      padding:6px 12px;
+      border-radius:999px;
+      font-size:.75rem;
+      display:inline-block;
+    }
+    footer {
+      margin-top:2rem;
+      text-align:center;
+      font-size:.7rem;
+      opacity:.7;
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .card { transition: transform .35s ease, box-shadow .35s ease; }
+      .card:hover { transform: translateY(-4px); }
+    }
+    .highlight {
+      background: rgba(124, 90, 255, .15);
+      padding: .1em .35em;
+      border-radius:4px;
+      font-weight:600;
+    }
+    .github-badges img {
+      max-height: 100px;
+      border-radius:12px;
+      margin-right:8px;
+      background: #0f111a;
+    }
+    .contact-list {
+      list-style:none;
+      padding:0;
+      margin:0;
+      display:flex;
+      flex-wrap:wrap;
+      gap:12px;
+    }
+    .contact-list li {
+      display:flex;
+      gap:6px;
+      align-items:center;
+      font-size:.85rem;
+    }
+    .code-block {
+      background: rgba(0,0,0,0.12);
+      padding:8px 12px;
+      border-radius:8px;
+      font-family: "Fira Code", monospace;
+      overflow-x:auto;
+      font-size:.75rem;
+    }
+    img.avatar {
+      width: 100px;
+      height: 100px;
+      border-radius: 100px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container" aria-label="About Nathan">
+    <header>
+      <div style="display:flex; gap:1rem; align-items:center;">
+        <img src="https://avatars.githubusercontent.com/u/149914029?v=4" class="avatar">
+        <div>
+          <h1>Hey, I'm <span style="color:#7c5aff;">Nathan</span></h1>
+          <div class="tagline">Young software developer. Building real stuff in HTML, CSS, JS, Python &amp; PowerShell. 🚀</div>
+          <div style="display:flex; gap:8px; flex-wrap:wrap;">
+            <a class="btn" href="https://github.com/Natuworkguy" target="_blank" rel="noopener">GitHub Profile</a>
+            <a class="btn" href="#projects">My Projects</a>
+          </div>
+        </div>
+      </div>
+      <div style="margin-left:auto; display:flex; gap:1rem; flex-wrap:wrap;">
+        <div class="pill">Full-stack tinkerer</div>
+        <div class="pill">Dark theme fanatic</div>
+      </div>
+    </header>
+
+    <div class="grid">
+      <!-- Bio / About -->
+      <div class="card" id="about">
+        <h2>About Me</h2>
+        <p>I'm Nathan — a young dev who builds tools, games, and interfaces. I code in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>, <strong>Python</strong>, and <strong>PowerShell</strong>. I like clean dev workflows, bold UX, and making something that feels like "real dev" energy. My current goal: build a GUI that feels like Unity but lighter and cooler (GameBro vibes). 🛠️</p>
+        <p>Strong opinions: context menus are overrated if your keybinds are solid. Undo/redo? Nah, real devs commit. 😎</p>
+      </div>
+
+      <!-- Skills -->
+      <div class="card" id="skills">
+        <h2>Skills <span style="font-size:.7rem; margin-left:4px;">(stack flex)</span></h2>
+        <div class="skills">
+          <div class="skill">🖥️ HTML</div>
+          <div class="skill">🎨 CSS</div>
+          <div class="skill">🧠 JavaScript</div>
+          <div class="skill">🐍 Python</div>
+          <div class="skill">⚙️ PowerShell</div>
+          <div class="skill">🐙 Git / GitHub</div>
+          <div class="skill">🧪 Experimental GUI design</div>
+        </div>
+        <p style="margin-top:8px;">Favorite: dark theme, minimal fluff, real-dev workflow. Always putting dunder methods first. 👨‍💻</p>
+      </div>
+
+      <!-- GitHub Stats -->
+      <div class="card" id="stats">
+        <h2>GitHub Flex</h2>
+        <div class="stats">
+          <div class="github-badges">
+            <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Natuworkguy&show_icons=true&theme=dark&hide_border=true" />
+          </div>
+          <div class="github-badges">
+            <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natuworkguy&layout=compact&theme=dark&hide_border=true" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Projects -->
+    <div class="card" id="projects" style="margin-top:1.5rem;">
+      <h2>Highlighted Projects</h2>
+      <div class="project">
+        <div class="project-title">
+          <div><strong>GameBro Studio</strong> (Custom GUI engine)</div>
+          <div><small>Python / Pygame</small></div>
+        </div>
+        <div class="project-desc">A cool Unity-esque editor that's simpler and cooler. Sprite previews deferred, real-dev philosophy, no undo/redo, keybind-first control, modular rendering system.</div>
+      </div>
+      <div class="project">
+        <div class="project-title">
+          <div><strong>UltraHTML</strong> (Cool HTML library)</div>
+          <div><small>CSS + JS</small></div>
+        </div>
+        <div class="project-desc">Easy to use dropdowns, modals, toasts, tabs, custom tooltips, cool buttons, chips, and more!</div>
+      </div>
+      <div class="project">
+        <div class="project-title">
+          <div><strong>InGame</strong></div>
+          <div><small>Python & Tkinter</small></div>
+        </div>
+        <div class="project-desc">Cool library for easily making UIs, using only vanilla Python</div>
+      </div>
+    </div>
+
+    <!-- Contact / Connect -->
+    <div class="card" id="connect" style="margin-top:1.5rem;">
+      <h2>Connect</h2>
+      <p>Want to collab, ask a question, or just say hi? Here’s how:</p>
+      <ul class="contact-list">
+        <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/Natuworkguy" style="color: #7c5aff; text-decoration:none;" target="_blank">Natuworkguy</a></li>
+        <li>📬 <strong>Email:</strong> <span style="opacity:.8;">info@nathannetwork.com</span></li>
+      </ul>
+    </div>
+
+    <footer>
+      Noice code by Nathan
+    </footer>
+  </div>
+</body>
+</html>
