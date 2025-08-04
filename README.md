@@ -23,4 +23,7 @@ Welcome to my GitHub profile! I'm passionate about working on machine learning, 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natuworkguy&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="195" draggable="false">
 </div>
 <br>
+<a href="natuworkguy.github.io">More about me</a>
+
+
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about tech.
