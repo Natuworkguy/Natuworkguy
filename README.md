@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about working on machine learning, 
 
 - Programming Languages: Python, JavaScript, HTML, CSS, Shell, NexLang, LOGO
 - Tools: Git, VS Code
-- 
+
 ## 📈 GitHub Stats
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=Natuworkguy&show_icons=true&theme=radical" height="195" draggable="false"> 
