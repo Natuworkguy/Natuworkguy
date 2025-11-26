@@ -1,21 +1,25 @@
-<h1 style="text-align: center;">Hi there, I'm Natuworkguy 👋</h1>
+<h1 align="center">Natuworkguy</h1>
+<div align="center">Fine at graphic design and Python.</div>
 
-Welcome to my GitHub profile! I'm passionate about working on machine learning, open-source projects, and more. Here's a bit more about me:
+***
+
+I'm passionate about working on machine learning, open-source projects, and more. Here's a bit more about me:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various NexLang projects.
+- 🔭 I’m currently working on various Ren'Py projects.
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
 - 🤔 I’m looking for help with improving my knowledge in deep learning.
-- 💬 Ask me about anything related to NexLang, and open-source contributions.
+- 💬 Ask me about anything related to Ren'Py or Python.
 - 📫 How to reach me: [info@nathannetwork.com](mailto:info@nathannetwork.com)
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, HTML, CSS, Shell, NexLang, LOGO
+- Programming Languages: Python, JavaScript, HTML, CSS, Shell, Ren'Py
 - Tools: Git, VS Code
+- Sucks at YAML
 
 ## 📈 GitHub Stats
 <div>
