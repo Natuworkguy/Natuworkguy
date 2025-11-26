@@ -23,7 +23,7 @@ I'm passionate about working on machine learning, open-source projects, and more
 
 ## 📈 GitHub Stats
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=Natuworkguy&show_icons=true&theme=radical" height="195" draggable="false"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=Natuworkguy&show_icons=true&theme=radical" height="195" draggable="false" alt="why is this api not working?"> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natuworkguy&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="195" draggable="false">
 </div>
 <br>
