@@ -1,5 +1,5 @@
 <h1 align="center">Natuworkguy</h1>
-<div align="center">Fine at graphic design and Python.</div>
+<div align="center">Okay at graphic design and Python.</div>
 
 ***
 
