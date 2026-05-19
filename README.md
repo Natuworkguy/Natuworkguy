@@ -1,33 +1,75 @@
-<h1 align="center">Natuworkguy</h1>
-<div align="center">Okay at graphic design and Python.</div>
+<div align="center">
 
-***
+# Nathan
 
-I'm passionate about working on machine learning, open-source projects, and more. Here's a bit more about me:
+Building engines, AI systems, developer tools, and other questionable ideas.
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on various Ren'Py projects.
-- 🌱 I’m currently learning advanced machine learning techniques.
-- 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
-- 🤔 I’m looking for help with improving my knowledge in deep learning.
-- 💬 Ask me about anything related to Ren'Py or Python.
-- 📫 How to reach me: [info@nathannetwork.com](mailto:info@nathannetwork.com)
-- 😄 Pronouns: He/Him
-
-## 🛠️ Technologies & Tools
-
-- Programming Languages: Python, JavaScript, HTML, CSS, Shell, Ren'Py
-- Tools: Git, VS Code
-- Sucks at YAML
-
-## 📈 GitHub Stats
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=Natuworkguy&show_icons=true&theme=radical" height="195" draggable="false"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natuworkguy&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="195" draggable="false">
 </div>
-<br>
-<a href="https://natuworkguy.github.io/">More about me</a>
 
+---
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about tech.
+I make software projects ranging from game engines and AI applications to command-line tools, automation systems, and experimental software.
+
+Most of my work is built with Python and JavaScript, usually involving custom systems, weird architecture decisions, or projects that somehow became much larger than originally planned.
+
+Currently focused on:
+- AI tooling
+- Game engine development
+- Developer tools
+- Real-time systems
+- Experimental software
+- Large-scale personal projects
+
+---
+
+## Main Projects
+
+### ABS Engine
+A custom game engine and editor system focused on modularity, scripting, rendering, and rapid development workflows.
+
+### Neuro
+A Python-based voice-enabled chatbot that combines speech recognition, text-to-speech, and AI conversation capabilities using Ollama as the LLM backend.
+
+### ShellMind
+An AI-powered command-line interface that bridges natural language and shell execution.
+
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- HTML / CSS
+- Shell
+
+### Currently Learning
+- C++
+- Tcl
+
+### Tools & Frameworks
+- Git
+- VS Code
+- Flask
+- Docker
+- Ren'Py
+
+---
+
+## Things I Like Building
+
+- Engines
+- Editors
+- AI systems
+- Automation tools
+- Web apps
+- Command-line tools
+- Infrastructure
+- Systems that probably should have stayed small projects
+
+---
+
+## Current Status
+
+Always building something.  
+Usually rewriting it halfway through.
