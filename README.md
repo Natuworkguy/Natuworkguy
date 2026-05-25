@@ -46,6 +46,7 @@ An AI-powered command-line interface that bridges natural language and shell exe
 ### Currently Learning
 - C++
 - Tcl
+- [Rux](https://github.com/rux-lang/Rux)
 
 ### Tools & Frameworks
 - Git
