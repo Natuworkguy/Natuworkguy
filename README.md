@@ -2,8 +2,7 @@
 
 # Natuworkguy
 
-Building engines, AI systems, developer tools, and other questionable ideas.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&pause=1200&color=00FFAA&center=true&vCenter=true&width=1400&lines=Working+on+Rux;Building+ABS+Engine;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+C%2B%2B+%7C+Ren'Py;Inno+Setup+%7C+Tcl+%7C+Bash+%7C+SQL)](https://git.io/typing-svg)
 </div>
 
 ---
