@@ -41,11 +41,11 @@ An AI-powered command-line interface that bridges natural language and shell exe
 - JavaScript
 - HTML / CSS
 - Shell
+- [Rux](https://github.com/rux-lang/Rux)
 
 ### Currently Learning
 - C++
 - Tcl
-- [Rux](https://github.com/rux-lang/Rux)
 
 ### Tools & Frameworks
 - Git
