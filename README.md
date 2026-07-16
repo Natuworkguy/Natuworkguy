@@ -23,13 +23,13 @@ Currently focused on:
 
 ## Main Projects
 
-### ABS Engine
+### [ABS Engine](https://github.com/Natuworkguy/ABS-Engine)
 A custom game engine and editor system focused on modularity, scripting, rendering, and rapid development workflows.
 
-### Neuro
+### [Neuro](https://github.com/Natuworkguy/Neuro)
 A Python-based voice-enabled chatbot that combines speech recognition, text-to-speech, and AI conversation capabilities using Ollama as the LLM backend.
 
-### ShellMind
+### [ShellMind](https://github.com/Natuworkguy/ShellMind)
 An AI-powered command-line interface that bridges natural language and shell execution.
 
 ---
