@@ -29,7 +29,7 @@ A custom game engine and editor system focused on modularity, scripting, renderi
 ### [Neuro](https://github.com/Natuworkguy/Neuro)
 A Python-based voice-enabled chatbot that combines speech recognition, text-to-speech, and AI conversation capabilities using Ollama as the LLM backend.
 
-### [ShellMind](https://github.com/Natuworkguy/ShellMind)
+### [Flash](https://github.com/Natuworkguy/Flash)
 An AI-powered command-line interface that bridges natural language and shell execution.
 
 ---
